@@ -29,15 +29,3 @@ An **AI-powered Flashcard Generator** that takes **PDF or text files as input** 
 4. Flashcards are displayed in an **interactive interface**  
 
 ---
-
-## 📸 Demo Screenshot
-> *(Insert a screenshot of your Streamlit app UI here)*  
-
----
-
-## 🔧 Installation & Usage
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/YourUsername/Flashcard-generation-using-LLM.git
-cd Flashcard-generation-using-LLM
